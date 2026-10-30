@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/유시은_키친레터.html" }
+  ]
+}
